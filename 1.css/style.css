@@ -197,6 +197,7 @@ header {
     border: none;
     border-bottom: 1px solid;
     width: 370px;
+    padding: 7px 0px;
 }
 
 .signup button {
