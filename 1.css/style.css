@@ -204,7 +204,8 @@ header {
     background: transparent;
     position: absolute;
     top: 0;
-    right: 0;
+    right: 4px;
+    margin-top: 8px;
 
 }
 
